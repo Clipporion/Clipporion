@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus
-- 👀 I’m interested in becoming a programmer
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in learning Ruby
+- 🌱 I’m currently doing the Odin Project
 
 <!---
 Clipporion/Clipporion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
